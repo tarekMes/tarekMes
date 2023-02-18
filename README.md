@@ -9,12 +9,15 @@ If you're looking for an experienced front-end developer who is committed to del
 DM: tarek@meslameni.com
 
 connect with me 
+<ul>
+  <li><a href="https://www.facebook.com/tarekmeslameni">Facebook</a></li
+<ul>
 
-Facebook: https://www.facebook.com/tarekmeslameni
-Instagram: https://www.instagram.com/meslamenistudio/
-Behance: https://www.behance.net/TarekMeslameni
-github: https://github.com/tarekMes
-youtube: https://www.youtube.com/@meslamenistudio
+Facebook: https://www.facebook.com/tarekmeslameni <br />
+Instagram: https://www.instagram.com/meslamenistudio/ <br />
+Behance: https://www.behance.net/TarekMeslameni <br />
+github: https://github.com/tarekMes <br />
+youtube: https://www.youtube.com/@meslamenistudio <br />
 
 
 <!--

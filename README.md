@@ -54,7 +54,7 @@ If you're looking for an experienced front-end developer who is committed to del
             </a>                                 
         </li>
     </ul>
- 
+<br /><br /><br /> 
 <div itemscope="" itemtype="https://schema.org/LocalBusiness " class="contain">
                         <h2><span itemprop="name">Tarek Meslameni </span></h2>
                         <p itemprop="description"> (OPC) specialist on visual for apps and it techs

@@ -22,13 +22,7 @@ DM: tarek@meslameni.com
                                       <strong> instagram </strong>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="https://www.facebook.com/MeslameniStudio" rel="noopener noreferrer">
-                                        <img src="https://meslameni.com/img/social/facebook.png" alt="tarek meslameni facebook account" width="24" height="24">
-                                     <strong> facebook </strong>
-                                 </a>
-                                  
-                                </li>
+                                
                                 <li>
                                     <a href="https://github.com/tarekMes" rel="noopener noreferrer">
                                         <img src="https://meslameni.com/img/social/github.png" alt="tarek meslameni facebook account" width="24" height="24">

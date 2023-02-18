@@ -7,6 +7,21 @@ I'm talented and versatile React Native developer with a Bachelor's degree in Co
 
 If you're looking for an experienced front-end developer who is committed to delivering high-quality, user-centered solutions, 
 
+<!--
+**tarekMes/tarekMes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+connect with me 
+<ul>
+  <li><a href="https://www.facebook.com/tarekmeslameni">Facebook</a></li
+<ul>
+
+Facebook: https://www.facebook.com/tarekmeslameni <br />
+Instagram: https://www.instagram.com/meslamenistudio/ <br />
+Behance: https://www.behance.net/TarekMeslameni <br />
+github: https://github.com/tarekMes <br />
+youtube: https://www.youtube.com/@meslamenistudio <br />
+Here are some ideas to get you started:
+
+
 
 <a href="https://meslameni.com" rel="noopener noreferrer">
                 <img src="https://meslameni.com/img/tarek%20meslameni%20studio%20aiming%20project.webp" alt="tarek meslameni behance account" width="200" height="100">
@@ -76,19 +91,9 @@ If you're looking for an experienced front-end developer who is committed to del
                             </span>
                         </div>
  </div>
-<!--
-**tarekMes/tarekMes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-connect with me 
-<ul>
-  <li><a href="https://www.facebook.com/tarekmeslameni">Facebook</a></li
-<ul>
 
-Facebook: https://www.facebook.com/tarekmeslameni <br />
-Instagram: https://www.instagram.com/meslamenistudio/ <br />
-Behance: https://www.behance.net/TarekMeslameni <br />
-github: https://github.com/tarekMes <br />
-youtube: https://www.youtube.com/@meslamenistudio <br />
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

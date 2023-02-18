@@ -25,26 +25,29 @@ DM: tarek@meslameni.com
                                 <li>
                                     <a href="https://www.facebook.com/MeslameniStudio" rel="noopener noreferrer">
                                         <img src="https://meslameni.com/img/social/facebook.png" alt="tarek meslameni facebook account" width="24" height="24">
-                                    </a>
-                                   <strong> facebook </strong>
+                                     <strong> facebook </strong>
+                                 </a>
+                                  
                                 </li>
                                 <li>
                                     <a href="https://github.com/tarekMes" rel="noopener noreferrer">
                                         <img src="https://meslameni.com/img/social/github.png" alt="tarek meslameni facebook account" width="24" height="24">
-                                    </a>
-                                   <strong> github </strong>
+                                       <strong> github </strong>   
+                                 </a>
+                             
                                 </li>
                                 <li>
                                     <a href="https://www.linkedin.com/company/meslameni" rel="noopener noreferrer">
                                         <img src="https://meslameni.com/img/social/linkedin.png" alt="tarek meslameni linkedin account" width="24" height="24">
-                                    </a>
-                                   <strong> linkedin </strong>
+                                    <strong> linkedin </strong>
+                                 </a>
+                                  
                                 </li>
                                 <li>
                                     <a href="https://www.youtube.com/@meslamenistudio" rel="noopener noreferrer">
-                                        <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="tarek meslameni behance account" width="24" height="24">
+                                        <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="tarek meslameni behance account" width="24" height="24">  <strong> youtube </strong>
                                     </a>
-                                   <strong> youtube </strong>
+                                 
                                 </li>
 </ul>
 <div itemscope="" itemtype="https://schema.org/LocalBusiness " class="contain">

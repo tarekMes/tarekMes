@@ -9,15 +9,17 @@ If you're looking for an experienced front-end developer who is committed to del
 DM: tarek@meslameni.com
 
 
-<ul>
+<ul style="  list-style-type: none;">
                                 <li>
                                     <a href="https://www.behance.net/TarekMeslameni" rel="noopener noreferrer">
                                         <img src="https://meslameni.com/img/social/behance.png" alt="tarek meslameni behance account" width="24" height="24">
+                                        <h3> behance </h3>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://www.instagram.com/meslamenistudio/" rel="noopener noreferrer">
                                         <img src="https://meslameni.com/img/social/instagram.png" alt="tarek meslameni instagram account" width="24" height="24">
+                                      <h3> instagram </h3>
                                     </a>
                                 </li>
                                 <li>
@@ -44,6 +46,7 @@ DM: tarek@meslameni.com
 <div itemscope="" itemtype="https://schema.org/LocalBusiness " class="contain">
                         <h2><span itemprop="name">Tarek Meslameni </span></h2>
                         <p itemprop="description"> (OPC) specialist on visual for apps and it techs
+                        <h3>Address: </h3>
                         </p><address itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
                           <span itemprop="streetAddress">Mahdia Road KM 4, Markez Kaaniche</span> <br>
                           <span itemprop="addressRegion">Sakiet Eddaïer, </span>

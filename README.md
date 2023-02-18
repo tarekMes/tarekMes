@@ -12,27 +12,32 @@ DM: tarek@meslameni.com
 <ul>
                                 <li>
                                     <a href="https://www.behance.net/TarekMeslameni" rel="noopener noreferrer">
-                                        <img src="/img/social/behance.png" alt="tarek meslameni behance account" width="24" height="24">
+                                        <img src="https://meslameni.com/img/social/behance.png" alt="tarek meslameni behance account" width="24" height="24">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://www.instagram.com/meslamenistudio/" rel="noopener noreferrer">
-                                        <img src="/img/social/instagram.png" alt="tarek meslameni instagram account" width="24" height="24">
+                                        <img src="https://meslameni.com/img/social/instagram.png" alt="tarek meslameni instagram account" width="24" height="24">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://www.facebook.com/MeslameniStudio" rel="noopener noreferrer">
-                                        <img src="/img/social/facebook.png" alt="tarek meslameni facebook account" width="24" height="24">
+                                        <img src="https://meslameni.com/img/social/facebook.png" alt="tarek meslameni facebook account" width="24" height="24">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://github.com/tarekMes" rel="noopener noreferrer">
-                                        <img src="/img/social/github.png" alt="tarek meslameni facebook account" width="24" height="24">
+                                        <img src="https://meslameni.com/img/social/github.png" alt="tarek meslameni facebook account" width="24" height="24">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://www.linkedin.com/company/meslameni" rel="noopener noreferrer">
-                                        <img src="/img/social/linkedin.png" alt="tarek meslameni linkedin account" width="24" height="24">
+                                        <img src="https://meslameni.com/img/social/linkedin.png" alt="tarek meslameni linkedin account" width="24" height="24">
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com/@meslamenistudio" rel="noopener noreferrer">
+                                        <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="tarek meslameni behance account" width="24" height="24">
                                     </a>
                                 </li>
 </ul>
